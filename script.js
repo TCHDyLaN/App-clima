@@ -1,5 +1,5 @@
 let url='https://api.openweathermap.org/data/2.5/weather'
-let api_key= '27ef16bff75f4b397d27886c3c611a8e'
+let api_key= ''
 let difKevlin=273.15
 
 
